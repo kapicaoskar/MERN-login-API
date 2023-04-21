@@ -1,2 +1,2 @@
-# MERN-login-API
-MERN login API with discord and steam!
+# express.js-learn
+express js learning
