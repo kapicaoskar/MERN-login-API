@@ -1,4 +1,4 @@
 const mongoose = require('mongoose');
-const connect = () => mongoose.connect('mongodb+srv://olszewskimarcel:olszewskimarcel@testbaza.pumt181.mongodb.net/test');
+const connect = () => mongoose.connect('you connect string');
 
 module.exports = connect;
